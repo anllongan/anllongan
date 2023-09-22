@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anllongan
+- 👋 Hi, I’m Anil Ongan
 - 👀 I’m interested in Front end development
-- 🌱 I’m currently learning Javascripty
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me... linkedin.com/anilongan35
 
 <!---
