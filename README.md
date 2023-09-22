@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Anil Ongan
+- 📍 Izmir/Turkey
 - 👀 I’m interested in Front end development
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me... linkedin.com/anilongan35
+- 📫 You can reach me via linkedin.com/anilongan35
 
 <!---
 anllongan/anllongan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
