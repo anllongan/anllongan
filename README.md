@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **JS,React**
 
-- 👨‍💻 All of my projects are available at [https://www.anilongan.com/](https://www.anilongan.com/)
+- 👨‍💻 All of my projects are available at [https://www.anilongan.com/](https://www.anilongan.com)
 
-- 📝 I regularly write articles on [https://www.anilongan.com/blog](https://www.anilongan.com/blog)
+- 📝 I regularly write articles on [https://www.anilongan.com/blog](https://www.anilongan.com/blog.html)
 
 - 📫 How to reach me **info@anilongan.com**
 
-- 📄 Know about my experiences [https://www.anilongan.com/resume](https://www.anilongan.com/resume)
+- 📄 Know about my experiences [https://www.anilongan.com/resume](https://www.anilongan.com/ozgecmis.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
