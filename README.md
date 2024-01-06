@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anil</h1>
+
+<p align="center">
+  <img src="hire-full-stack-developers1546507474317-1.gif" width="350" title="hover text">
+</p>
+
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anllongan&label=Profile%20views&color=0e75b6&style=flat" alt="anllongan" /> </p>
